@@ -20,6 +20,8 @@ function Project(props){
                 <p className="text">{props.p1}</p>
                 <p className="text">{props.p2}</p>
                 <p className="text">{props.p3}</p>
+                <a className="effect btn btn-lg btn-outline-info" role="button" href={props.btn}  rel="noopener noreferrer" target="_blank">View Project</a>
+
                 </div>
               
             </div>
