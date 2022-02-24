@@ -17,6 +17,7 @@ function App() {
                     p1="Patent filed ✅"
                     p2="A Desktop Application which can not only crop out margins but also end to end middle portion of a image."
                     p3="Libraries used: PIL, tkinter"
+                    btn="https://github.com/aditi567/Advance-Image_cropping.git"
                 />
                 <hr></hr>
                  <Project h="PTG-Forum"
@@ -24,6 +25,7 @@ function App() {
                     p1="MongoDB Database"
                     p2="A Chat Webapp that authorizes users and allows them to message anonymously."
                     p3="Libraries used: Mongoose, Express, Passport"
+                    btn="https://ptg-forum.herokuapp.com/"
                 />
             
             </div>
